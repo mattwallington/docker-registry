@@ -47,7 +47,7 @@ is already taken, find out which one has been taken by running "docker ps"
 Install the system requirements for building a Python library:
 
 ```
-sudo apt-get install build-essential python-dev libevent-dev python-pip
+sudo apt-get install build-essential python-dev libevent-dev python-pip liblzma-dev
 ```
 
 Then install the Registry app:
